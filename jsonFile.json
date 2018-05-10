@@ -1,0 +1,90 @@
+{
+    "nominationSection": {
+        "nomType": "Marine",
+        "nomParty": "21342143",
+        "tbdCheck": null,
+        "tripNumber": "213421",
+        "selectedOperator": {
+            "fullName": "John Smith",
+            "upn": "john.smith@nowhere.bp.com",
+            "benches": [
+                {
+                    "id": "24",
+                    "name": "London Jet",
+                    "__typename": "Bench"
+                }
+            ]
+        },
+        "selectedBench": {
+            "id": "24",
+            "name": "London Jet",
+            "__typename": "Bench"
+        },
+        "othRef": "13242134"
+    },
+    "parcelSection": {
+        "activity": null,
+        "parcelReference": null,
+        "location": null,
+        "ETADate": null,
+        "grade": null,
+        "deliveryTerms": null,
+        "portLayStart": null,
+        "portLayEnd": null,
+        "contractNumber": null
+    },
+    "transportSection": {
+        "transport": null,
+        "tolerance": null,
+        "daughterVessel": null,
+        "voyageNumber": null,
+        "quantity": null,
+        "uom": null
+    },
+    "requirementsSection": {
+        "timelogRequired": null,
+        "quantityRequired": null,
+        "testRequired": "true",
+        "testSets": [
+            {
+                "description": null,
+                "sampleLocation": null,
+                "testSetComments": null,
+                "testDetails": []
+            }
+        ]
+    },
+    "parcelInstSection": {
+        "parcelComments": null,
+        "emailResultsTo": null
+    },
+    "parcelInspectorSection": {
+        "selectedInspCo": null,
+        "selectedHubOffice": null,
+        "selectedHubCoord": null,
+        "selectedLocalOffice": null
+    },
+    "additionalInsSection": {
+        "inspectionAppointmentText": null,
+        "documentaryText": null,
+        "additionalText": null,
+        "frameworkText": null
+    },
+    "invoiceSplits": [
+        {
+            "id": -1,
+            "split": null,
+            "item": null,
+            "invoiceTo": null,
+            "company": null,
+            "comments": null,
+            "internalSplits": []
+        }
+    ],
+    "approveFor": {
+        "id": null,
+        "company": null,
+        "comments": null,
+        "internalSplits": []
+    }
+}
